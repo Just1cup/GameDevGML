@@ -23,13 +23,13 @@ repeat(_steps) {
 
 grid_[# _controller_x, _controller_y] = FLOOR;
 
-//RANDOMIZE DIRECTION
+//Randomize Direction
 
 if (irandom(_direction_change_odds) == _direction_change_odds){
 	_controller_direction = irandom(3)
 }
 
-//MOVE CONTROLLER
+//Move
 
 var _x_direction = lengthdir_x(1, _controller_direction *90);
 var _y_direction = lengthdir_y(1, _controller_direction *90);
