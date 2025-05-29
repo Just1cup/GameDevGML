@@ -15,7 +15,11 @@ This is a living document, designed to **grow as I learn**.
 
 ## Notes
 
-- Most code is written in **GML (GameMaker Language)** but can be adapted to other engines with similar scripting logic.
-- Comments are included for clarity and future editing.
-- Contributions and tweaks from my future self are welcome.
-- And for god's sake, if you see some way to improve it, reach me out. I always welcome a chance to learn.
+-  Code is mostly in **GML (GameMaker Language)**.
+-  Everything here is **modular, reusable, and commented**.
+-  Experiments live next to working systems — so explore!
+-  **Always open to feedback** — if you spot a better way, **reach out**. I'm always looking to learn.
+
+-  ##  From Me to Me
+
+This repo is a gift to my future self — so don't fuck up you future self and do your damn work.
